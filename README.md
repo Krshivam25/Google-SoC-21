@@ -55,3 +55,19 @@ Click any Shortcut buttons like `ALT + N` then Modal window appears, Here you ca
 <div>
 <img alt="Final working" src="src/screen.gif">
 </div>
+
+## Mentors
+
+The most important role is of my mentors who were helping me every single time with all the issues, the other students who helped me to improved my issues and code. 
+
+1. Harald Leithner
+2. SD Williams
+3. Anurag Kumar
+4. Viviana Menzel
+5. Patrick Jackson
+
+**Special thanks to**
+1. [Yatharth Vyas](https://github.com/YatharthVyas)
+2. [Rishabh Ranjan Jha](https://github.com/rjharishabh)
+3. [Rahul Saini](https://github.com/rs4231199)
+4. [Evyaz Ahmadzada](https://github.com/eyvazahmadzada)
