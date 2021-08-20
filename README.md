@@ -39,4 +39,10 @@ Here you can check and update the Buttons Key combination which is used as Short
 
 **Reset Buttons is used to Restore the Defaults Key combination shortcut**
 
+#### Keyboard Shortcuts - Editor
+Here you can check and update the Editor Key combination which is used as Shortcut to navigate through Keyboard
+<div>
+<img alt="Shortcut" src="src/img4.png">
+</div>
+
 
