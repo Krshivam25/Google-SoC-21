@@ -37,6 +37,6 @@ Here you can check and update the Buttons Key combination which is used as Short
 <img alt="Shortcut" src="src/img3.png">
 </div>
 
-
+**Reset Buttons is used to Restore the Defaults Key combination shortcut**
 
 
