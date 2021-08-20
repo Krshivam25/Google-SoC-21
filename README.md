@@ -31,6 +31,12 @@ Here you can find the Plugin. [ Joomla --> System --> Plugins --> Shortcut]
 <img alt="Shortcut" src="src/img2.png">
 </div>
 
+#### Keyboard Shortcuts - Buttons
+Here you can check and update the Buttons Key combination which is used as Shortcut to navigate through Keyboard
+<div>
+<img alt="Shortcut" src="src/img3.png">
+</div>
+
 
 
 
