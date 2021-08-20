@@ -45,4 +45,9 @@ Here you can check and update the Editor Key combination which is used as Shortc
 <img alt="Shortcut" src="src/img4.png">
 </div>
 
+#### Update the New Keyboard Shortcut
+Click any Shortcut buttons like `ALT + N` then Modal window appears, Here you can update you any keys or key combination to change the default values.
+<div>
+<img alt="Update Shortcut" src="src/img5.png">
+</div>
 
