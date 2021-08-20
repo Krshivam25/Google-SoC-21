@@ -16,7 +16,9 @@ The purpose of creating this repository is to maintain a report summary of my GS
 
 **Blog Post :** [Coding Phase-1](https://community.joomla.org/gsoc-2021/gsoc-project-accessibility.html)
 
-
+### Overview
+Implement and improve several accessibility functions in Joomla! Keyboard navigation. Web accessibility means designing and developing your website so that people with disabilities can perceive, understand, navigate, and interact with, and contribute to the Web.
+<br>
 
 
 
