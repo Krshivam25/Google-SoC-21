@@ -21,7 +21,7 @@ Implement and improve several accessibility functions in Joomla! Keyboard naviga
 <br>
 
 #### Keyboard Shortcut Plugin
-Here you can find the Plugin. [ Joomla --> System --> Plugins --> Shortcut]
+Here you can find the Plugin. [ Joomla --> System --> Plugins --> Shortcut ]
 <div>
 <img alt="Shorcut" src="src/img1.png">
 </div>
@@ -51,3 +51,7 @@ Click any Shortcut buttons like `ALT + N` then Modal window appears, Here you ca
 <img alt="Update Shortcut" src="src/img5.png">
 </div>
 
+### Accessibility - Keyboard Shortcut Navigation
+<div>
+<img alt="Final working" src="src/screen.gif">
+</div>
