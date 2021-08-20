@@ -26,6 +26,11 @@ Here you can find the Plugin. [ Joomla --> System --> Plugins --> Shortcut]
 <img alt="Shorcut" src="src/img1.png">
 </div>
 
+#### System Plugin Overview
+<div>
+<img alt="Shortcut" src="src/img2.png">
+</div>
+
 
 
 
